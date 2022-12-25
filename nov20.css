@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Marck+Script&family=Permanent+Marker&family=Rubik+Distressed&display=swap');
+/* .f{visibility: hidden;}
+.s{visibility: hidden;}
+.head{visibility: hidden;}
+.para{ visibility: hidden;}
+.vid1{visibility: hidden;} */
+body{background-color: rgb(0, 0, 0);}
+.head
+{
+    background-color: rgb(90, 197, 161);
+    border: 2px solid rgb(37, 149, 111);
+    border-radius: 2%;
+}
+#wish
+{
+    font-family: 'Rubik distressed';
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+.headp
+{
+    font-family: cursive;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.quote{font-family: 'Caveat'; font-size: 1.5em;}
+h1
+{
+    display: inline-block;
+}
+.fawe
+{
+    font-size: 32px;
+    color: rgb(174, 52, 158);
+}
+.mono
+{
+    
+    font-weight: bold;
+}
+
+                            /* part 2                                   */
+
+.f
+{
+    background-color: blue;
+    width: 48%;
+    height: 400px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 6px;
+    background: linear-gradient(to right,rgb(237, 93, 117),rgb(86, 86, 228));
+}
+.f1,.f3
+{
+    float: left;
+}
+.f2,.f4
+{
+    float: right;
+}
+#img1
+{
+    height: 350px ;
+    border: 4px inset rgb(0, 0, 0);
+    border-radius: 6px;
+    width: 177px;
+    margin: 25px;
+    float: left;
+}
+#img2
+{
+    height: 350px ;
+    width: 270px;
+    margin: 25px -30px 25px -40px;
+    float: left;
+}
+#img3
+{
+    height: 320px ;
+    width: 200px;
+    border: 4px inset rgb(0, 0, 0);
+    border-radius: 6px;
+    margin: 34px 5px 34px 25px;
+    float: left;
+}
+.fh
+{
+    display: block;
+    font-size: 24px;
+    font-family: 'Rubik distressed';
+    margin-top: 20px;
+    color: aliceblue;
+}
+.fh3
+{
+    display: block;
+    font-size: 24px;
+    font-family: 'Rubik distressed';
+    margin-top: 5px;
+    color: aliceblue;
+}
+
+.fex1
+{
+    font-size: 1.5em;
+    font-family: 'Caveat';
+    font-weight: bold;
+    color: white;
+    padding: 0px;
+}
+.fex2
+{
+    font-size: 1.5em;
+    font-family: 'Caveat';
+    font-weight: bold;
+    color: white;
+    margin-top: 0px;
+    /* padding: 40px; */
+}
+.fex3
+{
+    font-size: 1.4em;
+    font-family: 'Caveat';
+    font-weight: bold;
+    color: white;
+    margin-top: 0px;
+    
+}
+
+.fex4
+{
+    font-size: 1.5em;
+    font-family: 'Caveat';
+    font-weight: bold;
+    color: white;
+    margin: 5px 10px 0px 10px;
+    
+}
+.fg1
+{
+    display: block;
+    margin-top: 30px;
+    color: black;
+}
+.fg2
+{
+    display: block;
+    margin-top: 10px;
+    margin-left:-10px;
+    color: black;
+}
+.fg3
+{
+    display: inline;
+    font-size: 1.1em;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    color: black;
+}
+.fg4
+{
+    display: block;
+    font-size: 1.1em;
+    color: black;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+
+.faaa{color:black}
+
+                            /* part 3                                   */
+
+.pic1{border-top-left-radius: 6px;border-bottom-left-radius: 6px;}
+.pic5{border-top-right-radius: 6px;border-bottom-right-radius: 6px;}
+
+.pic1,.pic5
+{
+    height: 400px;
+    width: 272px;
+    background-color: black;
+    float: left;
+} 
+.pic2
+{
+    height: 400px;
+    width: 235px;
+    background-color: black;
+    float: left;
+} 
+.pic4
+{
+    height: 400px;
+    width: 235px;
+    background-color: black;
+    float: left;
+} 
+.pic3
+{
+    width: 315px;
+    height: 400px;
+    background-color: black;
+    float: left;
+    color: white;
+} 
+.simg1,.simg2,.simg5
+{
+    height: 380px;
+    margin: 10px;   
+    border-radius: 6px;
+}
+.simg3
+{
+    width: 300px;
+    margin: 10px 7px 0px 7px;
+    border-radius: 6px;
+}
+.simg4
+{
+    height: 380px;
+    margin: 10px;
+    border-radius: 6px;
+}
+.imgmid
+{
+    display: block;
+    font-size: 70px;
+   margin: 5px 60px 0px ;
+    font-family: 'Rubik distressed';
+}
+.imgmidtext
+{
+    font-size: 22px;
+    font-family: 'caveat';
+}
+.hear
+{
+    color: palevioletred;
+}
+.vid1
+{
+    /* border: 10px inset rgb(207, 78, 121); */
+    border: 10px inset rgb(136, 19, 97);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 12px;
+    margin-bottom: 10px;
+    width: 300px;
+    float:left;
+}
+#vv{margin-right: 0px;}
+hr{height: 0px; background-color: rgb(255, 255, 255);width: 100%;}
+.para1
+{
+    /* background: linear-gradient(to right, rgb(139, 226, 245),rgb(68, 119, 191)); */
+    background: linear-gradient(to right, pink,rgb(193, 6, 193));
+    font-family: 'marck script';
+    font-weight: 500;
+    font-size: 1.6em;
+    padding: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 4px solid rgb(103, 95, 102);
+    border-radius: 12px;
+    border-left: none;
+    border-right:none;
+}
+
+/* ////////////////////////////////////////////////////////////////part 3 sss//////////////////////////////////////// */
+.le{
+
+    font-family: 'Permanent marker';
+}
+.fw
+{
+    font-family: 'Rubik distressed';
+    font-weight: lighter;
+    color: white;
+    display: inline-block;
+    margin-left: 12%;
+    font-size: 36px;
+}
+.fw2
+{
+    font-size: 24px;
+    color: cadetblue;
+    font-weight: lighter;
+    font-family: 'rubik distressed';
+}
+
+a{
+    text-decoration: none;
+}
+.ss{
+    background-color: rgb(53, 73, 82);
+    margin-left: 41%;
+    margin-right: auto;
+    font-size: 22px;
+    font-family: cursive;
+    color: aliceblue;
+    padding: 10px;
+    border: 4px outset rgb(169, 168, 168);
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.ss:hover{
+    background: linear-gradient(to right,rgb(57, 112, 136),rgb(127, 161, 159));
+    color: white;
+}
+.ee
+{
+    color: white;
+    font-size: 1.8em;
+    font-family: caveat;
+}
